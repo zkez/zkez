@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yigehanhanZK/yigehanhanZK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yigehanhanZK/yigehanhanZK/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yigehanhanZK/yigehanhanZK/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkez/zkez/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkez/zkez/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zkez/zkez/output/github-contribution-grid-snake.svg">
 </picture>
 
 - 👨‍🎓Undergraduate of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - RMer（菜鸡一个）
 
-[![yigehanhanZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigehanhanZK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![yigehanhanZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
