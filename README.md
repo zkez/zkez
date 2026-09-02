@@ -10,4 +10,4 @@
 * 🤖 Currently researching real-time streaming applications of Multimodal Large Language Models, with a focus on low-latency visual-language understanding and online inference.
 * 👥 Former member of the RM Group at [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 
-[![yigehanhanZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![yigehanhanZK's GitHub stats](https://github-stats-extended.vercel.app/api?username=zkez&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
